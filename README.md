@@ -11,7 +11,7 @@ An end-to-end SQL project that cleans a messy Indian food delivery dataset (45,5
 6. How much do festivals affect delivery time?
 
 ## Dataset
-Kaggle "Food Delivery Dataset" (`train.csv`): 45,593 orders from March to April 2022 (mostly March), with partner age and rating, weather, traffic, vehicle details, city type, festival flag and delivery time in minutes. *(Add the Kaggle link here.)*
+Kaggle "Food Delivery Dataset"  https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset (`train.csv`): 45,593 orders from March to April 2022 (mostly March), with partner age and rating, weather, traffic, vehicle details, city type, festival flag and delivery time in minutes. *(Add the Kaggle link here.)*
 
 ## Tools
 SQL (SQLite / DB Browser for SQLite): CTEs, window functions (`RANK`), `CASE`, aggregations, type casting, string cleaning.
